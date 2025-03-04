@@ -18,7 +18,7 @@ click==8.1.8
     # via granian
 fastapi==0.115.11
     # via test-granian
-granian==1.7.6
+granian==2.0.0
     # via test-granian
 idna==3.10
     # via anyio
@@ -40,4 +40,4 @@ typing-extensions==4.12.2
     # via pydantic
     # via pydantic-core
 uvloop==0.21.0
-    # via granian
+    # via test-granian

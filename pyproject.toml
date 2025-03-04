@@ -9,6 +9,7 @@ dependencies = [
     "fastapi>=0.115.11",
     "granian==2.0.0",
     "prometheus-fastapi-instrumentator>=7.0.2",
+    "uvloop"
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
